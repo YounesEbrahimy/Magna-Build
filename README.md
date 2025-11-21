@@ -10,10 +10,10 @@
 
 * **Automatic filling of long edges** with balls and magnetic sticks (optional)
 * **Vertex group exclusion** to prevent balls from spawning on certain vertices (optional)
-* **Random color seed** for magnetic sticks (optional)
-* **Custom stick colors**: assign custom colors to sticks using a mesh attribute called `"CustomColor"` (Edge domain, Color type).
+* **Random color seed** for magnetic sticks
+* **Custom stick colors**: assign custom colors to sticks using a mesh attribute called `"CustomColor"` (optional)
 * **3-level LOD system** for faster rendering of instances based on camera distance (optional; adjustable distances)
-* **Instance realization** for exporting to other engines/environments
+* **Instance realization** for exporting to other engines/environments  (optional)
 * **Single global custom shader** for all settings, for simplicity and ease of use
 * **Highly optimized calculations** to reduce per-frame render times, even for complex meshes
 * **Clean, organized nodes**: all nodes are properly grouped, titled, and segmented for readability and easy editing
