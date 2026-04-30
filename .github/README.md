@@ -2,7 +2,7 @@
 
 **Magna-Build** is a Blender 5.0 Geometry Nodes system that instantly transforms any 3D mesh into magnetic toy structures. Spawn metal balls at vertices and create magnetic sticks along edges — fully customizable, highly optimized, and completely free to use.
 
-![Demo](.github/Images/Example-Shot.jpg)
+![Demo](Images/Example-Shot.jpg)
 
 ---
 
@@ -63,6 +63,6 @@
 
 ## Screenshots & Docs
 
-![Example shots](.github/Images/Example-Shots.jpg)
-![LOD Example](.github/Images/LOD.jpg)
-![Nodes structure](.github/Images/Nodes.jpg)
+![Example shots](Images/Example-Shots.jpg)
+![LOD Example](Images/LOD.jpg)
+![Nodes structure](Images/Nodes.jpg)
